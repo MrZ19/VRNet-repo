@@ -1,7 +1,8 @@
 # VRNet-repo
 
 ## Related information
-Here is the code of "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration" (``https://ieeexplore.ieee.org/abstract/document/9681904``), which proposes to rectify the virtual corresponding points to avoid the degeneration problem.
+<!--Here is the code of "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration" (``https://ieeexplore.ieee.org/abstract/document/9681904``), which proposes to rectify the virtual corresponding points to avoid the degeneration problem.-->
+Here is the VRNet code.
 
 <!--Note: the code is being prepared. -->
 
@@ -26,6 +27,7 @@ python main.py --eval True --mdoel_path YOUR_CHECKPOINT_DIRECTORY
 ## Acknowledgement
 The code is insipred by DCP, PRNet, RPMNet, etc.
 
+<!--
 ## Please cite:
 ```
 @article{vrnet_tcsv_zhang,
@@ -38,3 +40,4 @@ The code is insipred by DCP, PRNet, RPMNet, etc.
   year      = {2022}
 }
 ```
+-->
